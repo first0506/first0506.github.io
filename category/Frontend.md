@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Web/HTML,CSS
-permalink: '/Web/HTML,CSS'
+title: Web/Frontend
+permalink: '/Web/Frontend'
 ---
 
 Another sample category page.

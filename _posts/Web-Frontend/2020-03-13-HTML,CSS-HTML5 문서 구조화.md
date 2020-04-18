@@ -2,7 +2,7 @@
 layout: post
 title: HTML5 문서 구조화
 comments: true
-categories : [Web/HTML,CSS]
+categories : [Web/Frontend]
 tags: [HTML, CSS, 문서 구조화]
 ---
 
