@@ -33,18 +33,18 @@ feature-img: "assets/img/sample_feature_img_2.png"
 
 <h3>1. Skills</h3>
 
- <p class="text"> * Program Language : Python, Tensorflow, Java, Go</p>
+ <p class="text"> * Program Language : Python, HTML</p>
 
- <p class="text"> * Database : MongoDB, MySQL</p>
+ <p class="text"> * Database : Django</p>
 
- <p class="text"> * ETC : GitLab, Mac OS</p>
+ <p class="text"> * ETC : GitLab</p>
 
 
 <br>
 <h3>2. Interest</h3>
 
 
-   <p class="text"> Data Mining, Machine Learning, Deep Learning, NLP </p>
+   <p class="text"> Data Science, Machine Learning, Deep Learning </p>
 
 <br>
 

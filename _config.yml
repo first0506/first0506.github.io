@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
 baseurl:
-url: "https://devYurim.github.io"
+url: "https://first0506.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: devYurim
+  title: first0506
   avatar: assets/img/blogmark.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -21,14 +21,14 @@ theme_settings:
 
   # Icons
   rss: true
-  email_address: "soaka94@naver.com" # Full email address, e.g. "sam@example.com"
+  email_address: "first0506@naver.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "devYurim"
+  github: "first0506"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -43,8 +43,8 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: UA-111748939-1 # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname: devYurim
+  google_analytics: #UA-111748939-1 # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname: first0506
   katex: true # Enable if using math markup
   search: true # Enable the search feature
 
