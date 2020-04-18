@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Data Science/ADsP
-permalink: '/DS/ADsP'
+title: Web/Projects
+permalink: '/Web/Projects'
 ---
 
 Another sample category page.
