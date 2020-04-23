@@ -19,6 +19,8 @@ feature-img: "assets/img/sample_feature_img_2.png"
 
 우선 블로그에 방문해 주셔서 감사합니다.
 
+예비 프로그래머 김현준입니다.
+
 이 블로그는 제가 코딩을 배우면서 배운 내용과 프로젝트들을 저장해 놓는 곳입니다.
 
 
@@ -26,16 +28,14 @@ feature-img: "assets/img/sample_feature_img_2.png"
 ---
 
 1. **Skills**
+
 * Program Language : Python, HTML
    * Database : Django
 
 ---
 
-
 2. **Interest**
-
    * Image Processing
-
    * Data Science
    * Machine Learning
    * Deep Learning
@@ -43,8 +43,9 @@ feature-img: "assets/img/sample_feature_img_2.png"
 ---
 
 3. **Experience**
-* 2013.03 ~ 2019.08	연세대학교 원주캠퍼스 의공학부 졸업
-   * 2020.01 ~  삼성청년SW아카데미 3기
+   * 2013.03 ~ 2019.08	연세대학교 원주캠퍼스 의공학부 졸업
+   * 2017.08 ~ 2018.06    Univercity of Akron(미국) 교환학생
+   * 2020.01 ~  삼성청년SW아카데미 3기 (SSAFY)
 
 ---
 
