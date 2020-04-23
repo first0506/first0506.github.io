@@ -45,8 +45,8 @@ feature-img: "assets/img/sample_feature_img_2.png"
 
 ## **Experience**
 
-* 2013.03 ~ 2019.08	연세대학교 원주캠퍼스 의공학부 졸업
-* 2017.08 ~ 2018.06    Univercity of Akron(미국) 교환학생
+* 2013.03 ~ 2019.08	Yonsei University(Wonju) Biomedical Engineering -  a bachelor's degree
+* 2017.08 ~ 2018.06    Univercity of Akron(미국) - Exchange Student
 * 2020.01 ~  삼성청년SW아카데미 3기 (SSAFY)
 
 ---
